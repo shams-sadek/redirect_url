@@ -23,4 +23,6 @@ if($_POST) {
         ->setPostData($_POST);
 
     $obj->submitByGet();
+    or
+    $obj->submitByPost();
 }
