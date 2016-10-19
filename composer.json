@@ -1,0 +1,20 @@
+{
+    "name": "shams1978/redirect_url",
+    "description": "Redirect Url With Post Data",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shams sadek",
+            "email": "shams_sadek@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
