@@ -59,6 +59,6 @@ class RedirectUrl {
         //close connection
         curl_close($ch);
 
-        header("Location: $url");
+        // header("Location: $url");
     }
 }
